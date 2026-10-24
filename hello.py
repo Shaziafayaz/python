@@ -1,0 +1,1 @@
+print ("salam shazia g")  
