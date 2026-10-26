@@ -1,3 +1,1 @@
-print ("salam shazia g")  
-print("testing")
-print("github testt")
+print("Hello, World!")
